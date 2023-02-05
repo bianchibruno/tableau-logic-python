@@ -1,0 +1,12 @@
+-(p>p) is a negation of a propositional formula.
+(-p>p) is a binary connective propositional formula. Its left hand side is -p, its connective is >, and its right hand side is p.
+(pvqvr) is not a formula.
+--((pvq)^((p>-p)^(-p>p))) is a negation of a propositional formula.
+-(p) is not a formula.
+((pvq)^((p>-p)^(-p>p)))) is not a formula.
+-(p>(q>p)) is a negation of a propositional formula.
+(-(p>q)^q) is a binary connective propositional formula. Its left hand side is -(p>q), its connective is ^, and its right hand side is q.
+pvr is not a formula.
+(pvr) is a binary connective propositional formula. Its left hand side is p, its connective is v, and its right hand side is r.
+-((p>p)>(q>q)) is a negation of a propositional formula.
+(q^-(q^(p^q))) is a binary connective propositional formula. Its left hand side is q, its connective is ^, and its right hand side is -(q^(p^q)).
